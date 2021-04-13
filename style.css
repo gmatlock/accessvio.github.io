@@ -31,7 +31,8 @@ body
 }
 
 a 
-{ 
+{
+    background-color: white;
     position: relative;
     display: inline-block;
     font-weight: 800;
@@ -77,6 +78,7 @@ a:clicked
     color: white;
     overflow: hidden; 
     background: white;
+    background-color: white;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
