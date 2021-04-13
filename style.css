@@ -38,7 +38,7 @@ a
     font-weight: 800;
     color: white;
     overflow: hidden; 
-    background: linear-gradient(to right, gray, gray 50%, white 50%);
+    background: linear-gradient(to right, black, black 50%, white 50%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
